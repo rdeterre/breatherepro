@@ -1,0 +1,1 @@
+.. doxygenenum:: color

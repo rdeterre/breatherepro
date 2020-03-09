@@ -1,0 +1,4 @@
+
+INPUT                  =  main.h
+GENERATE_XML           = YES
+XML_OUTPUT             = ./doxygen_output
